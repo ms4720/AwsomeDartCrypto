@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Awsome Dart and Flutter Crypto 
 
-You can use the [editor on GitHub](https://github.com/ms4720/AwsomeDartCrypto.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A collection of Crypto related links for Dart and Flutter
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Will clean this up as time goes on
+
 
 ### Markdown
 
