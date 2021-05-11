@@ -5,6 +5,11 @@ A collection of Crypto related links for Dart and Flutter
 Will clean this up as time goes on
 
 
+## TOC
+
+* TOC
+{:toc}
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
